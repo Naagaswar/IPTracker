@@ -14,7 +14,7 @@ isi(){
         echo $y"Masukin IP Target : "
         read ip
         curl -s $url$ip
-        echo $y"Tools by MR.xtWHITE(13) "
+        echo $y"Tools by NAAGASWAR(13) "
         echo $y"Dan terimakasih kepada CYBER ATTACK ARMY "
 }
 
@@ -36,9 +36,9 @@ perintah(){
 
 
 banner(){
-    echo $b"================MR.xtWHITE(13)================"
+    echo $b"================NAAGASWAR(13)================"
     sleep 1
-    echo $y"Author : MR.xtWHITE(13) "
+    echo $y"Author : NAAGASWAR(13) "
     sleep 1
     echo $y"Thanks to Cyber Attack Army "
     sleep 1
